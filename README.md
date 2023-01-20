@@ -28,7 +28,7 @@ O desafio aqui foi construir esse FAQ accordion card e deixá-lo o mais próximo
 
 ### Links
 
-- Live Site URL: [FAQ accordion card](https://nft-preview-card-component-eta-five.vercel.app/)
+- Live Site URL: [FAQ accordion card](https://faq-accordion-card-sigma-coral.vercel.app/)
 
 
 ## Meu processo
