@@ -84,9 +84,10 @@ body
                         justify-content: start
 
                 .conteudo-questions
-                    
+                    overflow-y: scroll
+                    max-height: 150px
+
                     @include mixins.large-devices
-                        overflow-y: scroll
                         max-height: 250px
 
                 .conteudo-questions::-webkit-scrollbar 
